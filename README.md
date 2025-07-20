@@ -6,7 +6,7 @@
 
 ## 📑 Table of Contents
 - [🌟 Overview](#-overview)
-- [📂 File Structure](file_structure)
+- [📂 File Structure](#-file_structure)
 - [✅ Features](#-features)
 - [🛠 Tech Stack](#-tech-stack)
 - [⚙️ Setup Instructions](#-setup-instructions)
@@ -20,4 +20,4 @@ Welcome to the **Student Complaint Management System (SCMS)**, a robust Python-b
 ---
 
 ## 📂 File Structure
-![Folder Structure Diagram](folder_structure/folder_structure_diagram.png)
+![Folder Structure Diagram](file_structure.png)
