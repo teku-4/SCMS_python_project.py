@@ -6,7 +6,7 @@
 
 ## 📑 Table of Contents
 - [🌟 Overview](#-overview)
-- [📂 File Structure](folder_structure)
+- [📂 File Structure](file_structure)
 - [✅ Features](#-features)
 - [🛠 Tech Stack](#-tech-stack)
 - [⚙️ Setup Instructions](#-setup-instructions)
